@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: 关于LiberXue
-description: "关于LiberXue博客角落自述"
+title: 关于yuan22
+description: "关于yuan22博客角落自述"
 data: 2017-08-05 09:19:11
 tags: 
-- LiberXue
+- yuan22
 - 简述
 - 关于
 - Liber
@@ -25,7 +25,7 @@ redirect_from:
 
 博客图片使用七牛云加速
 
-##  LiberXue  曾用名013
+##  yuan22  曾用名013
  
 ### 曾用名013简述
  
@@ -38,15 +38,15 @@ redirect_from:
  
 还有一个原因2009年9月13日我在北京只剩下6块钱活三个月时间...
  
-### LiberXue简述
+### yuan22简述
  
-#### Liber注释
+#### yuan注释
  
 同我名字谐音 ``Liber`` 英文翻译过来：自由
  
-#### Xue注释
+#### 22注释
  
-`Xue` 就是拼音 ...我名字最后一个字(⊙ω⊙)
+因为Yuan已经被注册所以你懂的(⊙ω⊙)
 
 ## 想做一名全栈开发
 
